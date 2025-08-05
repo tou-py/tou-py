@@ -25,9 +25,10 @@ if __name__ == '__main__':
 Me encuentro en el cuarto año de Ingeniería de Software y también busco desarrollar sus conocimientos sobre desarrollo web y análisis de datos.
 
 - 🔭 Actualmente estoy estudiando:
-	- Desarrollo backend con Django
-	- Análisis de datos con numpy y pandas
-- :bulb: Me interesa mucho todo lo relacionado con datos: **Big Data, Cloud, Machine Learning y Ciencia de datos**
+	- Desarrollo backend con Ruby on Rails y Django
+ 	- Redis
+	- Mejorando conocimientos y uso de herramientas como Git y Docker
+- :bulb: Me interesa mucho crear aplicaciones backend, desde lo mas simple a lo mas complejo y seguir aprendiendo en el camino
 
 <div>
 <b> Languajes que manejo:
