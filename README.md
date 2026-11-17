@@ -63,7 +63,7 @@ Trabajé aproximadamente un año como Desarrollador Backend en sistemas contable
 
 ### Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/matías-sebastián-torres-galeano-b19b87340)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-sebasti%C3%A1n-torres-galeano-b19b87340)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sebastiantorresg2003@gmail.com)
 
 Abierto a oportunidades como **desarrollador backend**, presencial en la zona de la Triple Frontera o remoto.
